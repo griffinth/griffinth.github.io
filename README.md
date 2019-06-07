@@ -1,2 +1,2 @@
-# griffinth.github.io
-Personal Page
+# Bootstrap-Portfolio
+Bootstrap
